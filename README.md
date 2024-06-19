@@ -1,16 +1,3 @@
-# medication_tracker_app
+# MEDICATION TRACKER APP UI x FLUTTER
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![mediTrackUI1](https://github.com/sarathtechdev/mediTrackUI/assets/159810860/98eb48df-76c2-4942-9a79-c72e1d5cf9cc)
